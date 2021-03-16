@@ -1,0 +1,53 @@
+body {
+  background-color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+h2,
+p {
+  font-weight: 400;
+  color: #525252;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 28px;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.centered {
+  text-align: center;
+}
+
+.navbar {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.navbar-brand {
+  font-size: 35px;
+}
+
+.games_section_1,
+.footer {
+  background: #343a40;
+}
+
+.btn-secondary {
+  background: coral;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background: lightcoral;
+}
